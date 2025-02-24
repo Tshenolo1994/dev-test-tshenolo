@@ -1,7 +1,5 @@
 # My App Cars
 
-A Next.js application for Cars.co.za technical assessment.
-
 ## Setup
 
 1. Clone repository
